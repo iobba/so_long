@@ -1,6 +1,6 @@
-![Alt text](URL_to_your_GIF)
+   ## so_long
 
-## Project Title: so_long
+![Alt text](https://github.com/iobba/so_long/blob/master/86ff3436-2abd-4a31-a798-33d95028ccb9.gif)
 
 ### Description
 
