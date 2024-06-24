@@ -1,4 +1,4 @@
-# README.md
+![Alt text](URL_to_your_GIF)
 
 ## Project Title: so_long
 
